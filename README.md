@@ -12,7 +12,6 @@ specialising in supply chain optimisation and operations analytics.
 - Completed BSc thesis on zinc mining supply chain optimisation
 
 ## Currently
-- Finalising BSc in Industrial Engineering (graduating June 2026)
 - Seeking junior supply chain analyst / operations analyst roles in the UK
 - Building SQL and advanced Excel BI skills
 
