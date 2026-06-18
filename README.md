@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**alirezatajfar/alirezatajfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alireza Tajfar
 
-Here are some ideas to get you started:
+Industrial Engineering graduate from Amirkabir University of Technology, 
+specialising in supply chain optimisation and operations analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Supply chain network optimisation using MILP (Pyomo, PuLP, HiGHS)
+- Data analysis and pipeline building in Python (Pandas, NumPy, Scikit-learn)
+- Sensitivity analysis and scenario modelling
+- Completed BSc thesis on zinc mining supply chain optimisation
+
+## Currently
+- Finalising BSc in Industrial Engineering (graduating June 2026)
+- Seeking junior supply chain analyst / operations analyst roles in the UK
+- Building SQL and advanced Excel BI skills
+
+## Connect
+- LinkedIn: [your LinkedIn URL here]
+- Email: alireza.tajfar2@gmail.com
