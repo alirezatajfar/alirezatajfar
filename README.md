@@ -17,5 +17,5 @@ specialising in supply chain optimisation and operations analytics.
 - Building SQL and advanced Excel BI skills
 
 ## Connect
-- LinkedIn: [your LinkedIn URL here]
+- LinkedIn: (https://www.linkedin.com/in/alireza-tajfar-9b9325396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_add_position%3BH1i4Mt2bS7Kg1nvyxMrfEw%3D%3D)
 - Email: alireza.tajfar2@gmail.com
